@@ -26,6 +26,6 @@ class bot:
         
         time.sleep(3)
         bot.quit()
-test = bot("twitterbot1966@gmail.com","cobrakill123")
+test = bot("[your username/email]","your password")
 test.login()
 test.search('pewdiepie')
