@@ -1,0 +1,1394 @@
+1563607385040	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Iso7nQAyFNFS"
+
+(firefox-esr:9498): Gtk-WARNING **: 00:23:12.043: Theme directory status/scalable of theme Cupertino has no size field
+
+1563607397158	Marionette	INFO	Listening on port 35821
+1563607397188	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563607464265	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rPjNcfcW6aw1"
+
+(firefox-esr:9765): Gtk-WARNING **: 00:24:25.957: Theme directory status/scalable of theme Cupertino has no size field
+
+1563607468528	Marionette	INFO	Listening on port 33041
+1563607468593	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563607564865	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZexXV5N8fatY"
+
+(firefox-esr:10017): Gtk-WARNING **: 00:26:06.819: Theme directory status/scalable of theme Cupertino has no size field
+
+1563607569385	Marionette	INFO	Listening on port 39265
+1563607569479	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563608267209	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mSCqlA80aaAD"
+
+(firefox-esr:11427): Gtk-WARNING **: 00:37:50.470: Theme directory status/scalable of theme Cupertino has no size field
+
+1563608274079	Marionette	INFO	Listening on port 35231
+1563608274169	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563608337000	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BR59brEnCrDl"
+
+(firefox-esr:11748): Gtk-WARNING **: 00:39:00.238: Theme directory status/scalable of theme Cupertino has no size field
+
+1563608343894	Marionette	INFO	Listening on port 35315
+1563608343964	Marionette	WARN	TLS certificate errors will be ignored for this session
+1563608380936	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ln5jgamMXctF"
+
+(firefox-esr:11941): Gtk-WARNING **: 00:39:44.543: Theme directory status/scalable of theme Cupertino has no size field
+
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563608388989	Marionette	INFO	Listening on port 46269
+1563608389025	Marionette	WARN	TLS certificate errors will be ignored for this session
+1563608457349	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.86OyiDbYVzRA"
+
+(firefox-esr:12126): Gtk-WARNING **: 00:41:00.664: Theme directory status/scalable of theme Cupertino has no size field
+
+1563608464298	Marionette	INFO	Listening on port 41731
+1563608464355	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+console.log: Accessibility service init or shutdown observer does not exist.
+1563608553812	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.T7u18VveouyO"
+
+(firefox-esr:12418): Gtk-WARNING **: 00:42:37.280: Theme directory status/scalable of theme Cupertino has no size field
+
+1563608560940	Marionette	INFO	Listening on port 39757
+1563608561040	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563608617412	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EEq5tC3xJ2pu"
+
+(firefox-esr:12696): Gtk-WARNING **: 00:43:40.582: Theme directory status/scalable of theme Cupertino has no size field
+
+1563608624128	Marionette	INFO	Listening on port 37063
+1563608624171	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563608695502	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.04iU286leB5q"
+
+(firefox-esr:12953): Gtk-WARNING **: 00:44:58.882: Theme directory status/scalable of theme Cupertino has no size field
+
+1563608702618	Marionette	INFO	Listening on port 33969
+1563608702670	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563608791726	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FTziwkyp5b3C"
+
+(firefox-esr:13296): Gtk-WARNING **: 00:46:35.187: Theme directory status/scalable of theme Cupertino has no size field
+
+1563608798893	Marionette	INFO	Listening on port 41249
+1563608798975	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563609007857	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hPoMviuMYHpm"
+
+(firefox-esr:13684): Gtk-WARNING **: 00:50:11.225: Theme directory status/scalable of theme Cupertino has no size field
+
+1563609014966	Marionette	INFO	Listening on port 41533
+1563609015028	Marionette	WARN	TLS certificate errors will be ignored for this session
+1563609168488	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uuIyNJjMb2dS"
+
+(firefox-esr:14096): Gtk-WARNING **: 00:52:51.892: Theme directory status/scalable of theme Cupertino has no size field
+
+1563609175595	Marionette	INFO	Listening on port 38143
+1563609175704	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+console.log: Accessibility service init or shutdown observer does not exist.
+1563609461708	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wAWskWrV1QxS"
+
+(firefox-esr:14734): Gtk-WARNING **: 00:57:45.134: Theme directory status/scalable of theme Cupertino has no size field
+
+1563609469434	Marionette	INFO	Listening on port 34909
+1563609469468	Marionette	WARN	TLS certificate errors will be ignored for this session
+1563609497972	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PmMOtpvnc6jS"
+
+(firefox-esr:14924): Gtk-WARNING **: 00:58:21.594: Theme directory status/scalable of theme Cupertino has no size field
+
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563609505868	Marionette	INFO	Listening on port 46057
+1563609506025	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+1563609565403	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nb4V96xcxso1"
+
+(firefox-esr:15168): Gtk-WARNING **: 00:59:28.865: Theme directory status/scalable of theme Cupertino has no size field
+
+1563609572469	Marionette	INFO	Listening on port 43289
+1563609572544	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563609664755	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wEN78P73fYaf"
+
+(firefox-esr:15438): Gtk-WARNING **: 01:01:08.305: Theme directory status/scalable of theme Cupertino has no size field
+
+1563609671917	Marionette	INFO	Listening on port 39735
+1563609671985	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+1563609770404	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5iKBPxnCvqyS"
+
+(firefox-esr:15835): Gtk-WARNING **: 01:02:54.441: Theme directory status/scalable of theme Cupertino has no size field
+
+1563609778266	Marionette	INFO	Listening on port 37959
+1563609778420	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563609891058	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.L5nP1jaN0hdI"
+
+(firefox-esr:16138): Gtk-WARNING **: 01:04:54.548: Theme directory status/scalable of theme Cupertino has no size field
+
+1563609898394	Marionette	INFO	Listening on port 38063
+1563609898500	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563609940735	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.iOYo8LhhM5jt"
+
+(firefox-esr:16350): Gtk-WARNING **: 01:05:44.063: Theme directory status/scalable of theme Cupertino has no size field
+
+1563609947642	Marionette	INFO	Listening on port 38869
+1563609947688	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563609981137	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9r3tiwaiQ7Gh"
+
+(firefox-esr:16579): Gtk-WARNING **: 01:06:24.445: Theme directory status/scalable of theme Cupertino has no size field
+
+1563609988235	Marionette	INFO	Listening on port 44523
+1563609988265	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 16632, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 16632, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 16632, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 16632, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 16632, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 16632, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 16632, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x550027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563610024722	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.aDopZUubLERK"
+
+(firefox-esr:16803): Gtk-WARNING **: 01:07:08.082: Theme directory status/scalable of theme Cupertino has no size field
+
+1563610031867	Marionette	INFO	Listening on port 33665
+1563610031895	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563610322927	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QXN2oidCI3d3"
+
+(firefox-esr:17428): Gtk-WARNING **: 01:12:06.237: Theme directory status/scalable of theme Cupertino has no size field
+
+1563610330561	Marionette	INFO	Listening on port 42087
+1563610330736	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563610406563	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PstSCVy4tkGg"
+
+(firefox-esr:17657): Gtk-WARNING **: 01:13:30.775: Theme directory status/scalable of theme Cupertino has no size field
+
+1563610415419	Marionette	INFO	Listening on port 40373
+1563610415487	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563610515293	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kvEvIWhEQW9X"
+
+(firefox-esr:17991): Gtk-WARNING **: 01:15:19.644: Theme directory status/scalable of theme Cupertino has no size field
+
+1563610524241	Marionette	INFO	Listening on port 40887
+1563610524517	Marionette	WARN	TLS certificate errors will be ignored for this session
+1563610693872	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tdXy7uTrdFmp"
+console.log: Accessibility service init or shutdown observer does not exist.
+
+(firefox-esr:18223): Gtk-WARNING **: 01:18:18.513: Theme directory status/scalable of theme Cupertino has no size field
+
+[Child 18353, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 18353, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 18353, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 18353, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 18353, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 18353, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 18353, Chrome_ChildThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+[Child 18353, Chrome_ChildThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+1563610709482	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1ZKXJTPb5mbt"
+
+(firefox-esr:18371): Gtk-WARNING **: 01:18:33.196: Theme directory status/scalable of theme Cupertino has no size field
+
+1563610717061	Marionette	INFO	Listening on port 41861
+1563610717129	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://twitter.com
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.log: Accessibility service init or shutdown observer does not exist.
+1563610876638	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vYJgkGORZ9bh"
+
+(firefox-esr:18663): Gtk-WARNING **: 01:21:20.270: Theme directory status/scalable of theme Cupertino has no size field
+
+1563610884309	Marionette	INFO	Listening on port 37257
+1563610884456	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+1563611521565	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4uoEFXRUdeLv"
+
+(firefox-esr:19650): Gtk-WARNING **: 01:32:04.687: Theme directory status/scalable of theme Cupertino has no size field
+
+1563611528181	Marionette	INFO	Listening on port 35003
+1563611528252	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563611845797	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dhpFqPw8VeFi"
+
+(firefox-esr:20306): Gtk-WARNING **: 01:37:28.993: Theme directory status/scalable of theme Cupertino has no size field
+
+1563611852565	Marionette	INFO	Listening on port 33987
+1563611852680	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+[Child 20359, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563611924915	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.24lFrW5UnE7s"
+
+(firefox-esr:20578): Gtk-WARNING **: 01:38:48.156: Theme directory status/scalable of theme Cupertino has no size field
+
+1563611931914	Marionette	INFO	Listening on port 37069
+1563611931954	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/WebNavigationFrames.jsm, line 57: TypeError: window is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.log: Accessibility service init or shutdown observer does not exist.
+1563613054110	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tZ9k6Xyok6PN"
+
+(firefox-esr:21878): Gtk-WARNING **: 01:57:37.191: Theme directory status/scalable of theme Cupertino has no size field
+
+1563613060748	Marionette	INFO	Listening on port 40525
+1563613060796	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+1563613168595	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hD9R2lCwio4Y"
+
+(firefox-esr:22152): Gtk-WARNING **: 01:59:31.743: Theme directory status/scalable of theme Cupertino has no size field
+
+1563613175272	Marionette	INFO	Listening on port 44079
+1563613175322	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563613224329	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NIXW04G6JpxI"
+
+(firefox-esr:22385): Gtk-WARNING **: 02:00:27.373: Theme directory status/scalable of theme Cupertino has no size field
+
+1563613230800	Marionette	INFO	Listening on port 43443
+1563613230891	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563613249325	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hnQTR5G6T1mX"
+
+(firefox-esr:22566): Gtk-WARNING **: 02:00:52.500: Theme directory status/scalable of theme Cupertino has no size field
+
+1563613256463	Marionette	INFO	Listening on port 44897
+1563613256591	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 408: Error: OS.File has been shut down. Rejecting post to stat
+1563655101723	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yqUaNUrpQk9M"
+
+(firefox-esr:2867): Gtk-WARNING **: 13:38:29.855: Theme directory status/scalable of theme Cupertino has no size field
+
+1563655115300	Marionette	INFO	Listening on port 45475
+1563655115383	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 2922, MediaPlayback #1] WARNING: Decoder=7ffa6cfcde20 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+console.log: Accessibility service init or shutdown observer does not exist.
+1563655297026	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.IlJsi9cyUBKv"
+
+(firefox-esr:3485): Gtk-WARNING **: 13:41:40.116: Theme directory status/scalable of theme Cupertino has no size field
+
+1563655303413	Marionette	INFO	Listening on port 42417
+1563655303454	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 3535, MediaPlayback #2] WARNING: Decoder=7f1b4b339f20 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 3535, MediaPlayback #2] WARNING: Decoder=7f1b4b339f20 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 3535, MediaPlayback #2] WARNING: Decoder=7f1b4b339f20 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 3535, MediaPlayback #3] WARNING: Decoder=7f1b4b339f20 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 3535, MediaPlayback #1] WARNING: Decoder=7f1b4b339f20 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 3535, MediaPlayback #4] WARNING: Decoder=7f1b4b339f20 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 3535, MediaPlayback #4] WARNING: Decoder=7f1b4b339f20 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 3535, MediaPlayback #4] WARNING: Decoder=7f1b4b339f20 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 3535, MediaPlayback #4] WARNING: Decoder=7f1b4b339f20 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 3535, MediaPlayback #3] WARNING: Decoder=7f1b4b339f20 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 3535, MediaPlayback #1] WARNING: Decoder=7f1b4b339f20 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 3535, MediaPlayback #2] WARNING: Decoder=7f1b4b339f20 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 3535, MediaPlayback #2] WARNING: Decoder=7f1b4b339f20 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 3535, MediaPlayback #4] WARNING: Decoder=7f1b4b339f20 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 3535, MediaPlayback #2] WARNING: Decoder=7f1b4b339f20 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 3535, MediaPlayback #1] WARNING: Decoder=7f1b4b339f20 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 3535, MediaPlayback #2] WARNING: Decoder=7f1b4b339f20 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 3535, MediaPlayback #3] WARNING: Decoder=7f1b4b339f20 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 3535, MediaPlayback #3] WARNING: Decoder=7f1b4b339f20 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 3535, MediaPlayback #1] WARNING: Decoder=7f1b4b339f20 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+console.log: Accessibility service init or shutdown observer does not exist.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563655631717	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gsgjeFwm3UzF"
+
+(firefox-esr:4193): Gtk-WARNING **: 13:47:15.137: Theme directory status/scalable of theme Cupertino has no size field
+
+1563655638581	Marionette	INFO	Listening on port 45231
+1563655638653	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+1563655936070	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pVi5G2mTOvlI"
+
+(firefox-esr:4644): Gtk-WARNING **: 13:52:19.103: Theme directory status/scalable of theme Cupertino has no size field
+
+1563655942542	Marionette	INFO	Listening on port 44473
+1563655942607	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 4692, MediaPlayback #3] WARNING: Decoder=7f9933e0f7a0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 4692, MediaPlayback #3] WARNING: Decoder=7f9933e0f7a0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 4692, MediaPlayback #3] WARNING: Decoder=7f9933e0f7a0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 4692, MediaPlayback #1] WARNING: Decoder=7f9933e0f7a0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+console.log: Accessibility service init or shutdown observer does not exist.
+[Child 4692, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 4692, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 4692, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 4692, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563656306108	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0feJtrQuZpQC"
+
+(firefox-esr:5382): Gtk-WARNING **: 13:58:29.195: Theme directory status/scalable of theme Cupertino has no size field
+
+1563656312923	Marionette	INFO	Listening on port 43797
+1563656312965	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 5437, MediaPlayback #1] WARNING: Decoder=7f6192db3f20 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 5437, MediaPlayback #2] WARNING: Decoder=7f6192db3f20 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+console.log: Accessibility service init or shutdown observer does not exist.
+JavaScript error: https://abs.twimg.com/responsive-web/web/vendor.885be87136cf6fef4.js, line 83: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://abs.twimg.com/responsive-web/web/vendor.885be87136cf6fef4.js, line 83: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://abs.twimg.com/responsive-web/web/vendor.885be87136cf6fef4.js, line 83: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://abs.twimg.com/responsive-web/web/vendor.885be87136cf6fef4.js, line 83: NS_ERROR_NOT_INITIALIZED: 
+[Child 5437, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563656439160	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.X4us6mi7uUKX"
+
+(firefox-esr:5738): Gtk-WARNING **: 14:00:42.303: Theme directory status/scalable of theme Cupertino has no size field
+
+1563656445951	Marionette	INFO	Listening on port 33415
+1563656445988	Marionette	WARN	TLS certificate errors will be ignored for this session
+1563656464164	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0z7JZnmHvPE7"
+
+(firefox-esr:5901): Gtk-WARNING **: 14:01:05.846: Theme directory status/scalable of theme Cupertino has no size field
+
+1563656468205	Marionette	INFO	Listening on port 43453
+1563656468278	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563656824054	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mw6W7sLdkicj"
+
+(firefox-esr:6864): Gtk-WARNING **: 14:07:05.686: Theme directory status/scalable of theme Cupertino has no size field
+
+1563656827994	Marionette	INFO	Listening on port 34049
+1563656828067	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 6915, MediaPlayback #4] WARNING: Decoder=7f044a7bcb60 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 6915, MediaPlayback #2] WARNING: Decoder=7f044a7bcb60 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 6915, MediaPlayback #2] WARNING: Decoder=7f044a7bcb60 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563656923606	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Y0rC0fWAaEj5"
+
+(firefox-esr:7175): Gtk-WARNING **: 14:08:45.264: Theme directory status/scalable of theme Cupertino has no size field
+
+1563656927601	Marionette	INFO	Listening on port 40761
+1563656927639	Marionette	WARN	TLS certificate errors will be ignored for this session
+1563657064253	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DQ8SZyvM6dbW"
+
+(firefox-esr:7557): Gtk-WARNING **: 14:11:05.917: Theme directory status/scalable of theme Cupertino has no size field
+
+1563657068308	Marionette	INFO	Listening on port 42983
+1563657068377	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1563657142047	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rTeYvW5orvi5"
+
+(firefox-esr:7790): Gtk-WARNING **: 14:12:23.724: Theme directory status/scalable of theme Cupertino has no size field
+
+1563657146106	Marionette	INFO	Listening on port 44219
+1563657146161	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+1563659753276	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PyNYxmN2hkLo"
+
+(firefox-esr:3037): Gtk-WARNING **: 14:56:00.125: Theme directory status/scalable of theme Cupertino has no size field
+
+1563659778083	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Z445uyBtO5lH"
+
+(firefox-esr:3166): Gtk-WARNING **: 14:56:19.729: Theme directory status/scalable of theme Cupertino has no size field
+
+1563659782141	Marionette	INFO	Listening on port 35739
+1563659782210	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+[Child 3216, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1563659859083	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Qz37kjCEsrrJ"
+
+(firefox-esr:3384): Gtk-WARNING **: 14:57:40.710: Theme directory status/scalable of theme Cupertino has no size field
+
+1563659863084	Marionette	INFO	Listening on port 40879
+1563659863100	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563660403596	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OwVqGKlUnheQ"
+
+(firefox-esr:4930): Gtk-WARNING **: 15:06:45.407: Theme directory status/scalable of theme Cupertino has no size field
+
+1563660407769	Marionette	INFO	Listening on port 38173
+1563660407809	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+1563660493705	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2yCvr6TAn14A"
+
+(firefox-esr:5223): Gtk-WARNING **: 15:08:15.401: Theme directory status/scalable of theme Cupertino has no size field
+
+1563660497764	Marionette	INFO	Listening on port 36395
+1563660497820	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 5274, MediaPlayback #1] WARNING: Decoder=7f3f5896aa60 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 5274, MediaPlayback #2] WARNING: Decoder=7f3f5896aa60 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+console.log: Accessibility service init or shutdown observer does not exist.
+[Child 5274, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563660631666	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.efld4TqYMoVJ"
+
+(firefox-esr:5592): Gtk-WARNING **: 15:10:33.355: Theme directory status/scalable of theme Cupertino has no size field
+
+1563660635746	Marionette	INFO	Listening on port 41983
+1563660635799	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563660835136	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zMaucc9LCsut"
+
+(firefox-esr:5960): Gtk-WARNING **: 15:13:56.727: Theme directory status/scalable of theme Cupertino has no size field
+
+1563660839185	Marionette	INFO	Listening on port 39713
+1563660839248	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563660955205	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bx8Gh7EcdEfm"
+
+(firefox-esr:6204): Gtk-WARNING **: 15:15:56.894: Theme directory status/scalable of theme Cupertino has no size field
+
+1563660959332	Marionette	INFO	Listening on port 33829
+1563660959431	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 6254, MediaPlayback #4] WARNING: Decoder=7f63893cde20 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563660992487	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5mN5ypqN2ILV"
+
+(firefox-esr:6395): Gtk-WARNING **: 15:16:34.165: Theme directory status/scalable of theme Cupertino has no size field
+
+1563660996650	Marionette	INFO	Listening on port 40307
+1563660996699	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 6445, MediaPlayback #4] WARNING: Decoder=7fea968056a0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 6445, MediaPlayback #4] WARNING: Decoder=7fea968056a0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+console.log: Accessibility service init or shutdown observer does not exist.
+[Child 6445, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563661343132	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lSmXq9EgQiZT"
+
+(firefox-esr:6959): Gtk-WARNING **: 15:22:24.791: Theme directory status/scalable of theme Cupertino has no size field
+
+1563661347043	Marionette	INFO	Listening on port 36109
+1563661347164	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 7010, MediaPlayback #2] WARNING: Decoder=7f3b36fbf880 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1563661546210	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bRvhXIrEfYkj"
+
+(firefox-esr:7457): Gtk-WARNING **: 15:25:47.843: Theme directory status/scalable of theme Cupertino has no size field
+
+1563661550236	Marionette	INFO	Listening on port 33235
+1563661550336	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 7506, MediaPlayback #1] WARNING: Decoder=7f00871d3880 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 7506, MediaPlayback #3] WARNING: Decoder=7f00871d3880 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+console.log: Accessibility service init or shutdown observer does not exist.
+1563661647209	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wQZhs4k35sop"
+
+(firefox-esr:7750): Gtk-WARNING **: 15:27:28.853: Theme directory status/scalable of theme Cupertino has no size field
+
+1563661651226	Marionette	INFO	Listening on port 39013
+1563661651328	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563661924573	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fL5qOJFIbW73"
+
+(firefox-esr:8351): Gtk-WARNING **: 15:32:06.186: Theme directory status/scalable of theme Cupertino has no size field
+
+1563661928360	Marionette	INFO	Listening on port 36293
+1563661928386	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563661987730	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KyWG2sYnXXhH"
+
+(firefox-esr:8550): Gtk-WARNING **: 15:33:09.358: Theme directory status/scalable of theme Cupertino has no size field
+
+1563661991692	Marionette	INFO	Listening on port 38451
+1563661991758	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 8600, MediaPlayback #1] WARNING: Decoder=7fc4ccfb6c40 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 8600, MediaPlayback #2] WARNING: Decoder=7fc4ccfb6c40 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+console.log: Accessibility service init or shutdown observer does not exist.
+1563662112952	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rfiMdW6Ms5V0"
+
+(firefox-esr:8804): Gtk-WARNING **: 15:35:14.579: Theme directory status/scalable of theme Cupertino has no size field
+
+1563662116912	Marionette	INFO	Listening on port 38803
+1563662116966	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+1563662298071	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.skSaWflfzWKf"
+
+(firefox-esr:9487): Gtk-WARNING **: 15:38:19.725: Theme directory status/scalable of theme Cupertino has no size field
+
+1563662302009	Marionette	INFO	Listening on port 34603
+1563662302083	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 9538, MediaPlayback #2] WARNING: Decoder=7fa723f774c0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 9538, MediaPlayback #1] WARNING: Decoder=7fa723f774c0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563662404448	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pkb0AcZH7cRq"
+
+(firefox-esr:9826): Gtk-WARNING **: 15:40:06.129: Theme directory status/scalable of theme Cupertino has no size field
+
+1563662408388	Marionette	INFO	Listening on port 32815
+1563662408461	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 9879, MediaPlayback #2] WARNING: Decoder=7ff9746776a0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 9879, MediaPlayback #3] WARNING: Decoder=7ff9746776a0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563662464747	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.742djGrlBGU9"
+
+(firefox-esr:10031): Gtk-WARNING **: 15:41:06.515: Theme directory status/scalable of theme Cupertino has no size field
+
+1563662468821	Marionette	INFO	Listening on port 38805
+1563662468875	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 10082, MediaPlayback #2] WARNING: Decoder=7fa2b8e274c0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 10082, MediaPlayback #1] WARNING: Decoder=7fa2c2a77a60 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 10082, MediaPlayback #4] WARNING: Decoder=7fa2c2a77a60 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+console.log: Accessibility service init or shutdown observer does not exist.
+[Child 10082, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x550027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563662614866	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EWBb3vTNB4Jl"
+
+(firefox-esr:10420): Gtk-WARNING **: 15:43:36.577: Theme directory status/scalable of theme Cupertino has no size field
+
+1563662618938	Marionette	INFO	Listening on port 43391
+1563662618987	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 10472, MediaPlayback #3] WARNING: Decoder=7f850d0d9c40 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1563662774641	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.szpnGOTtG3Ss"
+
+(firefox-esr:10777): Gtk-WARNING **: 15:46:16.256: Theme directory status/scalable of theme Cupertino has no size field
+
+1563662778511	Marionette	INFO	Listening on port 41135
+1563662778558	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 10829, MediaPlayback #2] WARNING: Decoder=7efce5bea2e0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 10829, MediaPlayback #1] WARNING: Decoder=7efce5bea2e0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+console.log: Accessibility service init or shutdown observer does not exist.
+1563662902250	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qrqX3xVq6UHI"
+
+(firefox-esr:11020): Gtk-WARNING **: 15:48:23.952: Theme directory status/scalable of theme Cupertino has no size field
+
+1563662906399	Marionette	INFO	Listening on port 34999
+1563662906462	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 11072, MediaPlayback #3] WARNING: Decoder=7facec7c7980 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 11072, MediaPlayback #2] WARNING: Decoder=7facec7c7980 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 11072, MediaPlayback #2] WARNING: Decoder=7fad0af77c40 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563663058246	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.awt2oPbw7YU4"
+
+(firefox-esr:11332): Gtk-WARNING **: 15:50:59.872: Theme directory status/scalable of theme Cupertino has no size field
+
+1563663062323	Marionette	INFO	Listening on port 37031
+1563663062366	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 11383, MediaPlayback #2] WARNING: Decoder=7f6e5c78aa60 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563663133215	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Z9KEvUKgiLLQ"
+
+(firefox-esr:11556): Gtk-WARNING **: 15:52:14.910: Theme directory status/scalable of theme Cupertino has no size field
+
+1563663137538	Marionette	INFO	Listening on port 35559
+1563663137643	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 11609, MediaPlayback #3] WARNING: Decoder=7fd7f58f26a0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.youtube.com
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563663263603	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.o9uzLSBwyEbh"
+
+(firefox-esr:11793): Gtk-WARNING **: 15:54:25.212: Theme directory status/scalable of theme Cupertino has no size field
+
+1563663267485	Marionette	INFO	Listening on port 34219
+1563663267526	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 11844, MediaPlayback #1] WARNING: Decoder=7fe62e3fe6a0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 11844, MediaPlayback #2] WARNING: Decoder=7fe62e3fe6a0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 11844, MediaPlayback #2] WARNING: Decoder=7fe6205894c0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x49000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x49000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 11793, Gecko_IOThread] WARNING: pipe error (103): Connection reset by peer: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563663379705	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CN33w5UHqAv1"
+
+(firefox-esr:12052): Gtk-WARNING **: 15:56:21.335: Theme directory status/scalable of theme Cupertino has no size field
+
+1563663383749	Marionette	INFO	Listening on port 40159
+1563663383819	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 12103, MediaPlayback #3] WARNING: Decoder=7f8e48150980 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 12103, MediaPlayback #2] WARNING: Decoder=7f8e3f719100 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+console.log: Accessibility service init or shutdown observer does not exist.
+[Child 12103, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x550027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563663498746	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FpPxwXCkOTvc"
+
+(firefox-esr:12351): Gtk-WARNING **: 15:58:20.421: Theme directory status/scalable of theme Cupertino has no size field
+
+1563663502887	Marionette	INFO	Listening on port 37625
+1563663502957	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 12404, MediaPlayback #2] WARNING: Decoder=7feeb2870c40 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+console.log: Accessibility service init or shutdown observer does not exist.
+1563663610293	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hK2YWGnTiefU"
+
+(firefox-esr:12597): Gtk-WARNING **: 16:00:11.939: Theme directory status/scalable of theme Cupertino has no size field
+
+1563663614515	Marionette	INFO	Listening on port 38753
+1563663614606	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 12647, MediaPlayback #2] WARNING: Decoder=7f2d5aeace20 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.youtube.com
+console.log: Accessibility service init or shutdown observer does not exist.
+1563663792517	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bzvuihXzjjZa"
+
+(firefox-esr:12861): Gtk-WARNING **: 16:03:14.171: Theme directory status/scalable of theme Cupertino has no size field
+
+1563663796468	Marionette	INFO	Listening on port 37773
+1563663796529	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563663874955	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CjZjrH1TbMJw"
+
+(firefox-esr:13096): Gtk-WARNING **: 16:04:36.598: Theme directory status/scalable of theme Cupertino has no size field
+
+1563663879017	Marionette	INFO	Listening on port 35863
+1563663879075	Marionette	WARN	TLS certificate errors will be ignored for this session
+1563663913138	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ELmyplouI1ly"
+
+(firefox-esr:13324): Gtk-WARNING **: 16:05:14.821: Theme directory status/scalable of theme Cupertino has no size field
+
+1563663917341	Marionette	INFO	Listening on port 33505
+1563663917357	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 13381, MediaPlayback #3] WARNING: Decoder=7f740adc82e0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563664113184	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8a4zE8EJEaPw"
+
+(firefox-esr:13829): Gtk-WARNING **: 16:08:34.852: Theme directory status/scalable of theme Cupertino has no size field
+
+1563664117239	Marionette	INFO	Listening on port 35281
+1563664117301	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563664225121	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.iK4cWVgihQvA"
+
+(firefox-esr:14086): Gtk-WARNING **: 16:10:26.798: Theme directory status/scalable of theme Cupertino has no size field
+
+1563664229108	Marionette	INFO	Listening on port 34709
+1563664229139	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 14137, MediaPlayback #4] WARNING: Decoder=7fc8552c9880 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 14137, MediaPlayback #1] WARNING: Decoder=7fc8552c9880 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+console.log: Accessibility service init or shutdown observer does not exist.
+1563664440324	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qRNm7zzGfKIQ"
+
+(firefox-esr:14355): Gtk-WARNING **: 16:14:02.006: Theme directory status/scalable of theme Cupertino has no size field
+
+1563664444345	Marionette	INFO	Listening on port 35665
+1563664444437	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.youtube.com
+console.log: Accessibility service init or shutdown observer does not exist.
+[Child 14406, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563664559254	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nlToqxH0aGhz"
+
+(firefox-esr:14625): Gtk-WARNING **: 16:16:00.900: Theme directory status/scalable of theme Cupertino has no size field
+
+1563664563372	Marionette	INFO	Listening on port 34089
+1563664563467	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 14684, MediaPlayback #3] WARNING: Decoder=7fa6f1077100 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563664719951	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kbi9ayOwvgM3"
+
+(firefox-esr:15054): Gtk-WARNING **: 16:18:41.666: Theme directory status/scalable of theme Cupertino has no size field
+
+1563664723939	Marionette	INFO	Listening on port 41209
+1563664723976	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+1563664788158	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pYCSShx5nxyj"
+
+(firefox-esr:15290): Gtk-WARNING **: 16:19:49.836: Theme directory status/scalable of theme Cupertino has no size field
+
+1563664792232	Marionette	INFO	Listening on port 43121
+1563664792274	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+1563665016676	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zXrCUT237Hrb"
+
+(firefox-esr:15777): Gtk-WARNING **: 16:23:38.318: Theme directory status/scalable of theme Cupertino has no size field
+
+1563665020627	Marionette	INFO	Listening on port 39393
+1563665020691	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 15830, MediaPlayback #2] WARNING: Decoder=7f20357e96a0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 15830, MediaPlayback #4] WARNING: Decoder=7f20357e96a0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563665077859	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.maptd9HjInxY"
+
+(firefox-esr:15995): Gtk-WARNING **: 16:24:39.512: Theme directory status/scalable of theme Cupertino has no size field
+
+1563665082122	Marionette	INFO	Listening on port 41127
+1563665082178	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563665124026	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DP2T19Vf2SIy"
+
+(firefox-esr:16199): Gtk-WARNING **: 16:25:25.698: Theme directory status/scalable of theme Cupertino has no size field
+
+1563665128112	Marionette	INFO	Listening on port 39619
+1563665128138	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 16249, MediaPlayback #1] WARNING: Decoder=7f1bd800ee20 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+console.log: Accessibility service init or shutdown observer does not exist.
+[Child 16249, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563665257267	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.HCFJCLvW8Jgc"
+
+(firefox-esr:16548): Gtk-WARNING **: 16:27:38.897: Theme directory status/scalable of theme Cupertino has no size field
+
+1563665261101	Marionette	INFO	Listening on port 42059
+1563665261179	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 16598, MediaPlayback #2] WARNING: Decoder=7fd6c6449d40 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 16598, MediaPlayback #1] WARNING: Decoder=7fd6c6449d40 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563665318699	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.raDcrlK1Cd4N"
+
+(firefox-esr:16773): Gtk-WARNING **: 16:28:40.363: Theme directory status/scalable of theme Cupertino has no size field
+
+1563665322648	Marionette	INFO	Listening on port 36319
+1563665322712	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+1563665417182	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.W5qJPcTF8xQl"
+
+(firefox-esr:17009): Gtk-WARNING **: 16:30:18.863: Theme directory status/scalable of theme Cupertino has no size field
+
+1563665421155	Marionette	INFO	Listening on port 36377
+1563665421221	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 17061, MediaPlayback #2] WARNING: Decoder=7fb145692e20 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 17061, MediaPlayback #1] WARNING: Decoder=7fb145692e20 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563665589805	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hfXu4xOclMah"
+
+(firefox-esr:17436): Gtk-WARNING **: 16:33:11.478: Theme directory status/scalable of theme Cupertino has no size field
+
+1563665593697	Marionette	INFO	Listening on port 44757
+1563665593748	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+1563667727084	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PNWn1Ad3Bq9h"
+
+(firefox-esr:18933): Gtk-WARNING **: 17:08:48.825: Theme directory status/scalable of theme Cupertino has no size field
+
+1563667731137	Marionette	INFO	Listening on port 33659
+1563667731194	Marionette	WARN	TLS certificate errors will be ignored for this session
+1563667742963	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wpEyRnh18v9f"
+console.log: Accessibility service init or shutdown observer does not exist.
+
+(firefox-esr:19113): Gtk-WARNING **: 17:09:05.234: Theme directory status/scalable of theme Cupertino has no size field
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563667747816	Marionette	INFO	Listening on port 35299
+1563667747886	Marionette	WARN	TLS certificate errors will be ignored for this session
+1563667764009	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DFHU4XYrA4Ar"
+
+(firefox-esr:19313): Gtk-WARNING **: 17:09:25.872: Theme directory status/scalable of theme Cupertino has no size field
+
+1563667768278	Marionette	INFO	Listening on port 34595
+1563667768324	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 19371, MediaPlayback #2] WARNING: Decoder=7f4e7b62d200 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563667848238	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2zzH2GQ7iPFn"
+
+(firefox-esr:19697): Gtk-WARNING **: 17:10:49.961: Theme directory status/scalable of theme Cupertino has no size field
+
+1563667852322	Marionette	INFO	Listening on port 39835
+1563667852365	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 19754, MediaPlayback #4] WARNING: Decoder=7f5a3b168020 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 19754, MediaPlayback #1] WARNING: Decoder=7f5a5154ce20 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+console.log: Accessibility service init or shutdown observer does not exist.
+console.log: Accessibility service init or shutdown observer does not exist.
+1563667922047	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.T7LCu7g3jG2N"
+
+(firefox-esr:20013): Gtk-WARNING **: 17:12:04.456: Theme directory status/scalable of theme Cupertino has no size field
+
+1563667927864	Marionette	INFO	Listening on port 35917
+1563667927963	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 20088, MediaPlayback #2] WARNING: Decoder=7fd7b4fd24c0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 20088, MediaPlayback #1] WARNING: Decoder=7fd7b4fd24c0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 20088, MediaPlayback #1] WARNING: Decoder=7fd7b4fd24c0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 20088, MediaPlayback #3] WARNING: Decoder=7fd7b4fd24c0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 20088, MediaPlayback #3] WARNING: Decoder=7fd7b4fd24c0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563668064258	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.R9GhIe3tDbTG"
+
+(firefox-esr:20509): Gtk-WARNING **: 17:14:26.083: Theme directory status/scalable of theme Cupertino has no size field
+
+1563668068646	Marionette	INFO	Listening on port 36897
+1563668068683	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.log: Accessibility service init or shutdown observer does not exist.
+[Child 20568, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Parent 20509, Gecko_IOThread] WARNING: pipe error (50): Connection reset by peer: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563668277654	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.B7A1yMepW0zo"
+
+(firefox-esr:21103): Gtk-WARNING **: 17:17:59.425: Theme directory status/scalable of theme Cupertino has no size field
+
+1563668281870	Marionette	INFO	Listening on port 34161
+1563668281980	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+1563668548462	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.w7O0MEyDL8CH"
+
+(firefox-esr:21683): Gtk-WARNING **: 17:22:30.290: Theme directory status/scalable of theme Cupertino has no size field
+
+1563668552811	Marionette	INFO	Listening on port 32901
+1563668552882	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+[Child 21746, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563668687459	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5tEcqe8jj1A5"
+
+(firefox-esr:22139): Gtk-WARNING **: 17:24:49.227: Theme directory status/scalable of theme Cupertino has no size field
+
+1563668691667	Marionette	INFO	Listening on port 40255
+1563668691676	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563668734311	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.09KjqfPAVFZh"
+
+(firefox-esr:22387): Gtk-WARNING **: 17:25:36.059: Theme directory status/scalable of theme Cupertino has no size field
+
+1563668738439	Marionette	INFO	Listening on port 46553
+1563668738535	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 22444, MediaPlayback #4] WARNING: Decoder=7f5415ade4c0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 22444, MediaPlayback #2] WARNING: Decoder=7f5415ade4c0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563668815073	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wWR5xVci54fz"
+
+(firefox-esr:22631): Gtk-WARNING **: 17:26:56.725: Theme directory status/scalable of theme Cupertino has no size field
+
+1563668819169	Marionette	INFO	Listening on port 42023
+1563668819190	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.youtube.com/yts/jsbin/desktop_polymer_sel_auto_svg_home_v2-vfl6ZLdP3/desktop_polymer_sel_auto_svg_home_v2.js, line 9801: Error: Failed to load the iframe player library
+console.log: Accessibility service init or shutdown observer does not exist.
+[Child 22683, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 22683, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 22683, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 22683, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 22683, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 22683, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 22683, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 22683, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 22683, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 22683, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 22683, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 22683, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 22683, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 22683, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 22683, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 22683, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 22683, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 22683, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 22683, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 22683, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 22683, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 22683, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 22683, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 22683, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 22683, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 22683, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 22683, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 22683, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 22683, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 22683, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 22683, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 22683, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 22683, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 22683, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563668850996	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2dCL1caPa7bb"
+
+(firefox-esr:22849): Gtk-WARNING **: 17:27:32.733: Theme directory status/scalable of theme Cupertino has no size field
+
+1563668855099	Marionette	INFO	Listening on port 43635
+1563668855114	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.youtube.com/yts/jsbin/desktop_polymer_sel_auto_svg_home_v2-vfl6ZLdP3/desktop_polymer_sel_auto_svg_home_v2.js, line 9801: Error: Failed to load the iframe player library
+console.log: Accessibility service init or shutdown observer does not exist.
+1563668935706	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2aWYIpyJybDU"
+
+(firefox-esr:23125): Gtk-WARNING **: 17:28:57.394: Theme directory status/scalable of theme Cupertino has no size field
+
+1563668939909	Marionette	INFO	Listening on port 38641
+1563668939929	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563669014285	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.t5UJkIRT1wze"
+
+(firefox-esr:23358): Gtk-WARNING **: 17:30:16.028: Theme directory status/scalable of theme Cupertino has no size field
+
+1563669018345	Marionette	INFO	Listening on port 40265
+1563669018399	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.youtube.com/yts/jsbin/desktop_polymer_sel_auto_svg_home_v2-vfl6ZLdP3/desktop_polymer_sel_auto_svg_home_v2.js, line 9801: Error: Failed to load the iframe player library
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563669057795	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.IospHwz1XVAi"
+
+(firefox-esr:23589): Gtk-WARNING **: 17:30:59.449: Theme directory status/scalable of theme Cupertino has no size field
+
+1563669061739	Marionette	INFO	Listening on port 43245
+1563669061807	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563669102797	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cANRfqAq8fKa"
+
+(firefox-esr:23791): Gtk-WARNING **: 17:31:44.664: Theme directory status/scalable of theme Cupertino has no size field
+
+1563669107256	Marionette	INFO	Listening on port 42103
+1563669107319	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563669188298	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XNdz86uE8LYf"
+
+(firefox-esr:24042): Gtk-WARNING **: 17:33:09.977: Theme directory status/scalable of theme Cupertino has no size field
+
+1563669192537	Marionette	INFO	Listening on port 37577
+1563669192613	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.youtube.com/yts/jsbin/desktop_polymer_sel_auto_svg_home_v2-vfl6ZLdP3/desktop_polymer_sel_auto_svg_home_v2.js, line 9801: Error: Failed to load the iframe player library
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 155: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIMessageSender.sendAsyncMessage]
+console.log: Accessibility service init or shutdown observer does not exist.
+[Child 24145, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 408: Error: OS.File has been shut down. Rejecting post to stat
+1563669305019	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jt9JoWo2a6sC"
+
+(firefox-esr:24362): Gtk-WARNING **: 17:35:06.647: Theme directory status/scalable of theme Cupertino has no size field
+
+1563669308963	Marionette	INFO	Listening on port 45821
+1563669309046	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.youtube.com/yts/jsbin/desktop_polymer_sel_auto_svg_home_v2-vfl6ZLdP3/desktop_polymer_sel_auto_svg_home_v2.js, line 9801: Error: Failed to load the iframe player library
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563669351256	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Ss8yX61G0lSX"
+
+(firefox-esr:24577): Gtk-WARNING **: 17:35:53.011: Theme directory status/scalable of theme Cupertino has no size field
+
+1563669355310	Marionette	INFO	Listening on port 42419
+1563669355380	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563669528888	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kCy36PcI4wuQ"
+
+(firefox-esr:24943): Gtk-WARNING **: 17:38:50.566: Theme directory status/scalable of theme Cupertino has no size field
+
+1563669532926	Marionette	INFO	Listening on port 44419
+1563669533003	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.youtube.com/yts/jsbin/desktop_polymer_sel_auto_svg_home_v2-vfl6ZLdP3/desktop_polymer_sel_auto_svg_home_v2.js, line 9801: Error: Failed to load the iframe player library
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563669600316	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.443CS6JCkbb7"
+
+(firefox-esr:25201): Gtk-WARNING **: 17:40:01.998: Theme directory status/scalable of theme Cupertino has no size field
+
+1563669604238	Marionette	INFO	Listening on port 39795
+1563669604342	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.youtube.com/yts/jsbin/desktop_polymer_sel_auto_svg_home_v2-vfl6ZLdP3/desktop_polymer_sel_auto_svg_home_v2.js, line 9801: Error: Failed to load the iframe player library
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563669636286	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kxw4Hnhz0Bhc"
+
+(firefox-esr:25429): Gtk-WARNING **: 17:40:38.152: Theme directory status/scalable of theme Cupertino has no size field
+
+1563669640501	Marionette	INFO	Listening on port 34343
+1563669640609	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.youtube.com/yts/jsbin/desktop_polymer_sel_auto_svg_home_v2-vfl6ZLdP3/desktop_polymer_sel_auto_svg_home_v2.js, line 9801: Error: Failed to load the iframe player library
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563669736245	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZlBwm2ej0Bjn"
+
+(firefox-esr:25737): Gtk-WARNING **: 17:42:17.917: Theme directory status/scalable of theme Cupertino has no size field
+
+1563669740245	Marionette	INFO	Listening on port 40269
+1563669740259	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 25737, Gecko_IOThread] WARNING: pipe error (102): Connection reset by peer: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563669855465	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YfJFITMGc350"
+
+(firefox-esr:25995): Gtk-WARNING **: 17:44:17.405: Theme directory status/scalable of theme Cupertino has no size field
+
+1563669859780	Marionette	INFO	Listening on port 34645
+1563669859877	Marionette	WARN	TLS certificate errors will be ignored for this session
+1563670120975	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.k5nQEcdyBf7j"
+
+(firefox-esr:26338): Gtk-WARNING **: 17:48:42.965: Theme directory status/scalable of theme Cupertino has no size field
+
+1563670125538	Marionette	INFO	Listening on port 45249
+1563670125610	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.youtube.com/yts/jsbin/desktop_polymer_sel_auto_svg_home_v2-vfl6ZLdP3/desktop_polymer_sel_auto_svg_home_v2.js, line 9801: Error: Failed to load the iframe player library
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.log: Accessibility service init or shutdown observer does not exist.
+[Child 26388, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-Jz2l5x/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+console.log: Accessibility service init or shutdown observer does not exist.
+1563670171138	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SWQMh31gxu84"
+
+(firefox-esr:26582): Gtk-WARNING **: 17:49:33.116: Theme directory status/scalable of theme Cupertino has no size field
+
+1563670175494	Marionette	INFO	Listening on port 44167
+1563670175553	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+1563670276628	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9RLodtF7kMsf"
+
+(firefox-esr:26859): Gtk-WARNING **: 17:51:18.383: Theme directory status/scalable of theme Cupertino has no size field
+
+1563670280787	Marionette	INFO	Listening on port 34271
+1563670280845	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.youtube.com/yts/jsbin/desktop_polymer_sel_auto_svg_home_v2-vfl6ZLdP3/desktop_polymer_sel_auto_svg_home_v2.js, line 9801: Error: Failed to load the iframe player library
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563670596515	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YoncNlgRscOp"
+
+(firefox-esr:27596): Gtk-WARNING **: 17:56:43.040: Theme directory status/scalable of theme Cupertino has no size field
+
+1563670608961	Marionette	INFO	Listening on port 43463
+1563670609002	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.youtube.com/yts/jsbin/desktop_polymer_sel_auto_svg_home_v2-vfl6ZLdP3/desktop_polymer_sel_auto_svg_home_v2.js, line 9801: Error: Failed to load the iframe player library
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563671616905	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UChsplkrGxs7"
+
+(firefox-esr:29073): Gtk-WARNING **: 18:13:40.873: Theme directory status/scalable of theme Cupertino has no size field
+
+1563671625428	Marionette	INFO	Listening on port 37431
+1563671625464	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.youtube.com/yts/jsbin/desktop_polymer_sel_auto_svg_home_v2-vfl6ZLdP3/desktop_polymer_sel_auto_svg_home_v2.js, line 9801: Error: Failed to load the iframe player library
+console.log: Accessibility service init or shutdown observer does not exist.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563671676505	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gd2g2t98cS5P"
+
+(firefox-esr:29370): Gtk-WARNING **: 18:14:40.300: Theme directory status/scalable of theme Cupertino has no size field
+
+1563671684715	Marionette	INFO	Listening on port 43395
+1563671684742	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.youtube.com/yts/jsbin/desktop_polymer_sel_auto_svg_home_v2-vfl6ZLdP3/desktop_polymer_sel_auto_svg_home_v2.js, line 9801: Error: Failed to load the iframe player library
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.log: Accessibility service init or shutdown observer does not exist.
+1563679930994	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lHQBdVJVW3wA"
+
+(firefox-esr:30310): Gtk-WARNING **: 20:32:15.429: Theme directory status/scalable of theme Cupertino has no size field
+
+1563679939440	Marionette	INFO	Listening on port 38345
+1563679939559	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+1563680032450	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NJLVEo8xrneS"
+
+(firefox-esr:30995): Gtk-WARNING **: 20:33:56.485: Theme directory status/scalable of theme Cupertino has no size field
+
+1563680040661	Marionette	INFO	Listening on port 45875
+1563680040699	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.youtube.com/yts/jsbin/desktop_polymer_sel_auto_svg_home_v2-vfl6ZLdP3/desktop_polymer_sel_auto_svg_home_v2.js, line 9801: Error: Failed to load the iframe player library
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.log: Accessibility service init or shutdown observer does not exist.
